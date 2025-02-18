@@ -3,5 +3,8 @@
 
 *卡：(U_\alpha, x_\alpha)二元组
 
+* x_beta · x_alpha^-1定义域？
+
+
 ![alt text](a415aa1cceb2129b47fc13c2d5ceb3e3.jpg)
 几个例子（不在考试中涉及）
